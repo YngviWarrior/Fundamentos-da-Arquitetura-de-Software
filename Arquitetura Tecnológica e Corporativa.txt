@@ -1,0 +1,17 @@
+Tipos de Arquitetura:
+
+    Arquitetura Tecnológica:
+        São especialistas em tecnologias específicas de mercado. (Certificações)
+        Gera valor aos projetos baseado na expertise em tecnológias específicas.
+
+        Ex: Arquiteto Elastic, Arquiteto Java, SQL Server, Oracle, SAP.
+
+    Arquitetura Coporativa:
+        Políticas e regras que impactam estrategicamente a organização como um todo. (Governança tecnológias)
+        Avalia custos. (Devs, tipos de tecnológias).
+        Será que faz sentido migrar? Deteminando padronizações tecnológias.
+        Planejamento de grandes implementações. Integrar culturas, planejamento de reestruturações e refatoração de sistemas.
+
+    Arquitetura de Solução:
+        
+    Arquitetura de Software:
