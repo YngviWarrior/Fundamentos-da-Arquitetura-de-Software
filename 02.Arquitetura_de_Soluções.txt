@@ -1,0 +1,8 @@
+Arquiteto de Soluções.
+
+    Fica entre a área de negócios e a de software.
+    Transformar requisitos de negócios em soluções de software.
+    Fazer desenhos arquiteturais da solução para reproduzir como ele irá funcionar. Ex: C4, UML, BPMN e outros diagramas.
+    Analisa os impactos comerciais na escolha tecnológicas.
+    Participar no processo comercial de pré-venda e venda.
+    Analisa os impactos dos custos para o negócio.
