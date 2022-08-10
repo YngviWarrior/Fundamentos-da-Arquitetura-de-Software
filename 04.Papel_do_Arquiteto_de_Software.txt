@@ -1,0 +1,6 @@
+Transformar requisitos de negócio em padrões arquiteturais.
+Orquestrar devs e experts de domínio.
+Entender de forma profunda conceitos e modelos arquiteturais.
+Auxilia na tomada de decisão nos momentos de crise.
+Reforça boas práticas de desenvolvimento.
+Code Reviews.

@@ -1,0 +1,7 @@
+Poder navegar na visão macro para uma visão micro de um ou mais softwares.
+Entender quais são as opções e escolher a melhor das opções para desenvolver algo.
+Pensar no longo prazo e na sustentabilidade do software.
+Tomar decisões de forma mais fria e calculada evitando assim ser influenciado pelos "hypes" do mercado.
+Mergulho em padrões de projeto e de desenvolvimento e suas boas práticas. Entender como padronizar, componentizar o software.
+Ter mais clareza do impacto que o software possui na organização como um todo.
+Tomar decisões com mais confiança.

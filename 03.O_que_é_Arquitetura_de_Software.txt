@@ -1,0 +1,12 @@
+É uma "disciplina" da engenharia de software.
+Diretamente ligada ao processo de desenvolvimento de software.
+Afeta diretamente na estrutura organizacional da empresa.
+    Formação de times.
+    Estrutura dos componentes de software.
+    As organizações que desenvolve sistemas de software tendem a produzir sistemas que são cópia doas estruturas de comunicação,
+     dessas organizações.
+
+A Arquitetura de software é a relação dos objetivos de negócios
+ e suas restrições com os componentes a serem criados e suas responsabilidades,
+ visando a evolução do software.
+

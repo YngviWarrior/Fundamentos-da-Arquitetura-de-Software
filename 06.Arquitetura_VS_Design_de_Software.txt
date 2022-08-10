@@ -1,0 +1,7 @@
+Arquitetura: Escopo Global ou Alto Nível.
+Design: Escopo local (Classe, Pattern).
+
+Arquitetura engloba design. Entretando nem todas as atividades de design são de arquitetura.
+
+Se o design não trabalha com atributos de qualidade, restrições de alto nível ou objetivos de negócios, não é uma atividade arquitetural.
+Todas as decisões de design que não sejá "visível" fora de um componente, não é uma atividade arquitetural.
